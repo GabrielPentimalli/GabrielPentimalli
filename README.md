@@ -25,21 +25,6 @@ I also build local-first software with Java, Spring Boot and retrieval-augmented
 I'm currently pursuing my Master's degree in Computer Engineering at Roma Tre University.
 ```
 
-### `$ tree ~/selected_work`
-
-```text
-/home/gabriel/selected_work
-├── Prism-Knowledge-Management/
-├── Multimodal-patient-monitoring/
-├── Comparative-ML-Analytics-for-Lung-Adenocarcinoma-Diagnosis/
-└── F1-telemetry-dashboard/
-```
-
-- **[Prism Knowledge Management](https://github.com/GabrielPentimalli/Prism-Knowledge-Management)** `>` local-first knowledge manager with a three-agent RAG pipeline: Lucene retrieval, local LLM synthesis via Ollama, deterministic citation verification.
-- **[Multimodal Patient Monitoring](https://github.com/Metabolic-Intelligence-Lab/Multimodal-patient-monitoring)** `>` analysis of recorded clinical sessions: transcription and diarization with WhisperX/pyannote; paralinguistic, facial and postural features with openSMILE, OpenFace and MediaPipe.
-- **[Comparative ML Analytics for Lung Adenocarcinoma Diagnosis](https://github.com/GabrielPentimalli/Comparative-ML-Analytics-for-Lung-Adenocarcinoma-Diagnosis)** `>` comparative benchmark of supervised models on high-dimensional metabolomic data, with stratified cross-validation and ROC-AUC evaluation.
-- **[F1 Telemetry Dashboard](https://github.com/bianccc01/F1-telemetry-dashboard)** `>` interactive web dashboard for exploring Formula 1 telemetry data, built with JavaScript and D3.js.
-
 ### `$ cat toolkit.txt`
 
 ```text
